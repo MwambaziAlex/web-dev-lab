@@ -1,0 +1,3 @@
+IN this lab, I have learned how to install GitHub and I have also learned the basics of using GitHub like how to create files, how to upload and update files,
+and also how to get around the basic functionality of GitHub. I have also learned how to create a simple webpage using HTML and how o run it on a browser, 
+I have learned the basic tools used to create a functional website.
